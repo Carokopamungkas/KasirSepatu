@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98560744698",
+    "project_id": "kasir-sepatu-bd893",
+    "storage_bucket": "kasir-sepatu-bd893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98560744698:android:13a9450e96116e04b1fd43",
+        "android_client_info": {
+          "package_name": "com.aji.kasirsepatu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98560744698-argq4cglpvpro25gmlcpktbanqe1pv3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcKKgwtzmtFEKLKDozOeg1bEDRI4_X61M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98560744698-argq4cglpvpro25gmlcpktbanqe1pv3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
